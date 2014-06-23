@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list">
+        <item>Friends</item>
+        <item>Enemies</item>
+    </string-array>
+
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">item Detail</string>
+
+</resources>
